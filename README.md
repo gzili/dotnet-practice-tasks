@@ -10,3 +10,17 @@ The repository should be used as a basis to build upon and complete assignments 
 Create a new model (can be anything you can think of) and implement all CRUD functionality for that model so it can be saved to the database and manipulated through API requests.
 
 More information and useful resources coming soon...
+
+# Links
+
+[Basic ASP.NET CRUD API tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio) (goes through the process of building a Todo items API step-by-step)
+
+[ASP.NET Core Fundamentals](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-5.0&tabs=windows) (a lot of useful articles about fundamental features of ASP.NET, such as Dependency Injection)
+
+[Using Web API with Entity Framework](https://docs.microsoft.com/en-us/aspnet/web-api/overview/data/using-web-api-with-entity-framework/) (full guide, clearly explains models, controllers, working with database, entity relations, DTOs and more)
+
+[Data Transfer Objects (DTOs)](https://docs.microsoft.com/en-us/aspnet/web-api/overview/data/using-web-api-with-entity-framework/part-5) (a thorough explanation of data transfer objects (DTOs) and their creation)
+
+[Rest API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) (an in-depth article of REST API best practices)
+
+[ASP.NET Core MVC with Entity Framework](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/?view=aspnetcore-5.0) (a tutorial series that goes through the process of building an entire university application where data storage is handled by Entity Framework, a lot of useful information for dealing with database but beware that there is also a lot of MVC logic that is irrevelant to APIs)
