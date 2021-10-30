@@ -3,13 +3,18 @@
 This repository is an ASP.NET WEB API project template that shows the basic structure of a CRUD (Create Read Update Delete) API that manipulates entities stored in an SQL database using Entity Framework.
 The repository should be used as a basis to build upon and complete assignments in order to get a better understanding of various important API developments concepts.
 
-**Note:** This repository is a template. It should be **forked** and the assignments must be completed in your **own fork** of this repository. A fork is created by clicking the `Fork` button at the top right of the screen.
+**Note:** This repository is a template. It should be **forked** and the assignments must be completed in your **own fork** of this repository. A fork is created by clicking the `Fork` button at the top right of the screen. [Video demonstration](https://youtu.be/7qyv6BZ8sMA)
 
 ## Task 1
 
 Create a new model (can be anything you can think of) and implement all CRUD functionality for that model so it can be saved to the database and manipulated through API requests.
 
 More information and useful resources coming soon...
+
+# Project setup videos
+[For Jetbrains Rider](https://youtu.be/sUctLBXg840)
+
+[For Visual Studio](https://youtu.be/dp3r8ipV0Qs)
 
 # Links
 
